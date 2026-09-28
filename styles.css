@@ -1,3 +1,31 @@
 hello
 hello hello
 hello hello hello
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+h1 {
+    font-size: 48px;
+    color: #222;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.7;
+}
